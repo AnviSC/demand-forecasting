@@ -4,6 +4,8 @@ This is an interactive Streamlit web application that uses machine learning to f
 
 ![Dashboard Screenshot]([https://i.imgur.com/gLz8n2T.png](https://imagizer.imageshack.com/img924/250/rwywAm.png))
 
+<img width="1704" height="979" alt="Screenshot 2025-10-31 at 5 19 19 AM" src="https://github.com/user-attachments/assets/76f840a3-24fb-463d-b4e8-39d97bfcb0c4" />
+
 ---
 
 ## ✨ Core Features
