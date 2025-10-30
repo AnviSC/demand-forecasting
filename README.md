@@ -2,7 +2,7 @@
 
 This is an interactive Streamlit web application that uses machine learning to forecast demand, analyze supply chain risks, and provide prescriptive recommendations.
 
-![Dashboard Screenshot](https://i.imgur.com/gLz8n2T.png)
+![Dashboard Screenshot]([https://i.imgur.com/gLz8n2T.png](https://imagizer.imageshack.com/img924/250/rwywAm.png))
 
 ---
 
